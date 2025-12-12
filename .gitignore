@@ -1,0 +1,8 @@
+venv/
+datasets/
+oxford_base_models/
+caviar_base_models/
+.idea/
+__pycache__/
+*.pyc
+*.pt
