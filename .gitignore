@@ -1,5 +1,6 @@
 venv/
-datasets/
+oxford_datasets/
+caviar_datasets/
 oxford_base_models/
 caviar_base_models/
 .idea/
